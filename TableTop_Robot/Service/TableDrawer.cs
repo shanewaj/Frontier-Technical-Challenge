@@ -7,7 +7,7 @@ using TableTop_Robot.Common;
 
 namespace TableTop_Robot.Service
 {
-    public class TableDrawer
+    public static class TableDrawer
     {
         /// <summary>
         /// Draw Table Grid on Screen

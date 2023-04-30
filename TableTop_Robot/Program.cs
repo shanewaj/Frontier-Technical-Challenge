@@ -3,7 +3,7 @@ using TableTop_Robot.Common;
 using TableTop_Robot.Service;
 
 namespace TableTop_Robot {
-    class Program
+    public static class Program
     {
         static void Main()
         {

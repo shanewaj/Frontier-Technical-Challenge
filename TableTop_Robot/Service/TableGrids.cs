@@ -7,7 +7,7 @@ namespace TableTop_Robot.Service
         private readonly int GridWidth;
         private readonly int GridHeight;
 
-        private GridNode[,] _gridNodes;
+        private readonly GridNode[,] _gridNodes;
 
         public int GetGridHeight()
         {
